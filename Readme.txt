@@ -25,3 +25,7 @@ Legal:
 
 Copyright Dan Rooke 2006
 Licensed under the Creative Commons Attribution-ShareAlike 2.5 license. Full details available at http://creativecommons.org/licenses/by-sa/2.5/.
+
+---
+
+Addendum 2021-04-10 / softplus: I couldn't find this importer anywhere other than in my old backups, perhaps someone finds this useful. Note that Wordpress has likely evolved quite a bit, so you probably need to tweak the script. 
